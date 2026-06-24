@@ -1,7 +1,7 @@
 # LXWA-Updater
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LXWA/assets/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/LXWA/assets/banner.png" width="100%">
 </p><h3 align="center">WhatsApp Mod com recursos exclusivos, personalização avançada e melhorias de privacidade.</h3><p align="center">
   <img src="https://img.shields.io/badge/Android-5.0+-green">
   <img src="https://img.shields.io/badge/Base-WhatsApp-brightgreen">

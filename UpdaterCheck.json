@@ -1,7 +1,9 @@
 {
     "VERSION_NAME": "1.0.0",
     "WEBSITE_URL": "https://leowhatsappwebsite.my.canva.site/lxwhatsapp",
-    "PRIMARY_PACKAGE": "https://t.me/LeoXUpdates",
-    "SECONDARY_PACKAGE": "https://t.me/LeoXUpdates",
-    "TERTIARY_PACKAGE": "https://t.me/LeoXUpdates"
+    "OFFICIAL_URL": "https://t.me/LeoXUpdates",
+    "CLONE_URL": "https://t.me/LeoXUpdates",
+    "CLONE_URL2": "https://t.me/LeoXUpdates",
+    "CLONE_URL3": "https://t.me/LeoXUpdates",
+    "CLONE_URL4": "https://t.me/LeoXUpdates"
 }

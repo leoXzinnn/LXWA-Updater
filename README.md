@@ -1,124 +1,217 @@
-# LXWA-Updater
+# LXWA
 
 <p align="center">
-  <img src="https://github.com/leoXzinnn/LXWA-Updater/blob/main/assets/banner.png" width="100%">
-</p><h3 align="center">WhatsApp Mod com recursos exclusivos, personalização avançada e melhorias de privacidade.</h3><p align="center">
-  <img src="https://img.shields.io/badge/Android-5.0+-green">
-  <img src="https://img.shields.io/badge/Base-WhatsApp-brightgreen">
-  <img src="https://img.shields.io/badge/Status-Ativo-success">
-  <img src="https://img.shields.io/github/downloads/LXWA/LXWA/total">
-</p>---
+  <img src="assets/banner.png" alt="LXWA Banner" width="100%">
+</p>
 
-📖 Sobre
+<p align="center">
+  <b>Um mod do WhatsApp focado em desempenho, estabilidade, personalização e privacidade.</b>
+</p>
 
-O LXWA é um mod baseado no WhatsApp desenvolvido com foco em desempenho, estabilidade, privacidade e personalização.
-
-O projeto nasceu com o objetivo de oferecer recursos extras sem comprometer a experiência original do aplicativo, trazendo melhorias visuais, opções avançadas e funções exclusivas para usuários que desejam mais controle sobre o mensageiro.
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-5.0%2B-success">
+  <img src="https://img.shields.io/badge/Base-WhatsApp-25D366">
+  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen">
+  <img src="https://img.shields.io/github/v/release/leoXzinnn/LXWA-Updater">
+  <img src="https://img.shields.io/github/downloads/leoXzinnn/LXWA-Updater/total">
+</p>
 
 ---
 
-✨ Recursos
+# 📖 Sobre
 
-🎨 Personalização
+O **LXWA** é um mod baseado no WhatsApp desenvolvido para oferecer uma experiência mais completa sem perder a simplicidade do aplicativo original.
 
-- Temas exclusivos LXWA
-- Alteração de cores da interface
-- Personalização de ícones
-- Personalização de fontes
-- Modificações visuais em conversas e listas
-- Ajustes avançados de aparência
+O projeto busca equilibrar:
 
-🔒 Privacidade
+- 🚀 Desempenho
+- 🔒 Privacidade
+- 🎨 Personalização
+- ⚙️ Compatibilidade
+- 🛠️ Estabilidade
+
+Além de recursos exclusivos, o LXWA acompanha constantemente as novas versões do WhatsApp para manter compatibilidade e corrigir problemas rapidamente.
+
+---
+
+# ✨ Recursos
+
+## 🎨 Personalização
+
+- Temas exclusivos
+- Alteração das cores da interface
+- Ícones personalizados
+- Ajustes visuais em conversas
+- Personalização da tela inicial
+- Modificações da barra superior
+- Diversas opções de aparência
+
+---
+
+## 🔒 Privacidade
 
 - Congelar visto por último
-- Ocultar online
-- Ocultar digitando...
-- Ocultar gravando áudio...
+- Ocultar status Online
+- Ocultar "Digitando..."
+- Ocultar "Gravando áudio..."
 - Ocultar visualização de status
-- Controle avançado de confirmações de leitura
+- Controle avançado das confirmações de leitura
+- Configurações individuais por contato/grupo/transmissão
 
-🚀 Recursos Exclusivos
+---
 
-- Download de status
-- Compartilhamento aprimorado
+## 🚀 Recursos Exclusivos
+
+- Download de Status
+- Compartilhamento avançado
 - Opções extras para mídia
-- Configurações ocultas liberadas
-- Recursos beta selecionáveis
-- Melhorias de interface exclusivas
+- Recursos Beta selecionáveis
+- Configurações ocultas
+- Melhorias exclusivas da interface
+- Ferramentas adicionais do LXWA
 
-⚡ Desempenho
+---
+
+## ⚡ Desempenho
 
 - Otimizações internas
-- Redução de processos desnecessários
 - Melhor gerenciamento de memória
-- Correções específicas para versões recentes do WhatsApp
+- Redução de processos desnecessários
+- Correções específicas para versões recentes
+- Melhor estabilidade geral
 
 ---
 
-📱 Compatibilidade
+# 📱 Compatibilidade
 
-Requisitos | Status
-Android 5.0+| ✅
-Root| ❌ Necessário
-
----
-
-📥 Instalação
-
-1. Aconselho a usar a opção de espelhamento para evitar banimento de apk não-oficial.
-2. Baixe a versão mais recente na página de Releases ou no YouTube @leoXzinnn.
-3. Instale o APK (secundário, terciário...).
-4. Abra o aplicativo e na tela de pôr o número, clique nos três pontos e selecione a opção "Conectar como dispositivo adicional".
-5. No WhatsApp oficial, clique nos três pontos na tela inicial e selecione a opção de "Dispositivos conectados".
-6. Recomendo utilizar outro celular para tirar uma foto rapidamente no momento do QR Code ser gerado, para escanear no seu WhatsApp correspondente.
+| Requisito | Suporte |
+|-----------|---------|
+| Android | 5.0 (API 21) ou superior |
+| Root | ❌ Não |
+| Instalação Paralela | ✅ Sim |
+| Espelhamento | ✅ Recomendado |
 
 ---
 
-⚙️ Changelog
+# 📥 Instalação
 
-As alterações de cada versão podem ser consultadas na seção de Releases ou dentro do próprio mod, na área "Sobre"
-.
----
+1. Baixe a versão mais recente na aba **Releases**.
+2. Instale o APK secundário (ou outra variante disponível).
+3. Abra o aplicativo.
+4. Na tela de inserir o número, toque nos **três pontos**.
+5. Selecione **Conectar como dispositivo adicional**.
+6. No WhatsApp oficial, abra:
 
-🛠️ Desenvolvimento
+```
+Menu
+↓
+Dispositivos Conectados
+↓
+Conectar um dispositivo
+```
 
-O LXWA é um projeto mantido e atualizado constantemente para acompanhar as novas versões do WhatsApp e corrigir possíveis problemas.
+7. Escaneie o QR Code exibido pelo LXWA.
 
-Principais áreas de desenvolvimento:
-
-- Engenharia reversa
-- Implementação de recursos
-- Correções de compatibilidade
-- Melhorias visuais
-- Otimização de desempenho
-
----
-
-🐛 Reportar Problemas
-
-Caso encontre algum erro:
-
-1. Ao aparecer a tela de erro, selecione o Gmail para envio do relatório.
-2. Envie o relatório e eu serei grato por manter a LXWA um mod mais estável para todos.
-3. Explique como ocorreu o problema (recomendado)
-4. Envie capturas de tela ou vídeos quando possível.
+> **Observação**
+>
+> O espelhamento pode reduzir alguns riscos associados ao uso de aplicativos modificados, porém não elimina completamente a possibilidade de restrições, pois isso depende das políticas do WhatsApp.
 
 ---
 
-📢 Comunidade
+# 📢 Atualizações
 
-Acompanhe anúncios, atualizações e novidades através dos canais oficiais do projeto.
+Todas as novidades são disponibilizadas através de:
 
-Telegram: @LXWAUpdates
-YouTube: @leoXzinnn
+- Releases do GitHub
+- Atualizador interno do LXWA
+- Canal oficial do Telegram
+- Canal do YouTube
 
 ---
 
-❤️ Créditos
+# 🐞 Reportar Bugs
 
-Agradecimentos a todos os usuários, testadores e colaboradores que ajudam a melhorar o LXWA diariamente.
+Encontrou algum problema?
 
-Dentre os testadores, estão:
+Antes de enviar um relatório, procure informar:
+
+```
+Versão do LXWA:
+
+Versão do Android:
+
+Modelo do aparelho:
+
+Como reproduzir:
+
+Prints (opcional):
+
+Vídeo (opcional):
+```
+
+Quanto mais detalhes forem enviados, mais rápida será a correção.
+
+---
+
+# 🛠️ Desenvolvimento
+
+O projeto é atualizado constantemente para acompanhar as novas versões do WhatsApp.
+
+Áreas de desenvolvimento:
+
+- Engenharia Reversa
+- Desenvolvimento em Smali
+- Java
+- XML
+- Correções de Compatibilidade
+- Otimizações
+- Melhorias Visuais
+
+---
+
+# 📸 Capturas de Tela
+
+> Em breve.
+
+---
+
+# ❓ FAQ
+
+### Precisa de Root?
+
+Não.
+
+### Posso instalar junto com o WhatsApp oficial?
+
+Sim, utilizando a variante secundária.
+
+### Existe risco de banimento?
+
+O uso de modificações não oficiais sempre pode estar sujeito às políticas do WhatsApp. Utilize por sua conta e risco.
+
+### O projeto recebe atualizações?
+
+Sim. O LXWA acompanha constantemente novas versões do WhatsApp.
+
+---
+
+# 🤝 Comunidade
+
+## Telegram
+
+https://t.me/LXWAUpdates
+
+## YouTube
+
+https://youtube.com/@leoXzinnn
+
+---
+
+# ❤️ Créditos
+
+Agradecimentos especiais aos testadores que ajudam diariamente no desenvolvimento do projeto.
+
+## Testadores
 
 - Ln Nunes
 - Lucas F. Leão
@@ -128,6 +221,21 @@ Dentre os testadores, estão:
 
 ---
 
+# ⭐ Apoie o Projeto
+
+Caso goste do LXWA, considere:
+
+- ⭐ Favoritar o repositório
+- 📢 Compartilhar o projeto
+- 🐞 Enviar relatórios de bugs
+- 💬 Participar da comunidade
+
+Todo apoio ajuda no desenvolvimento.
+
+---
+
 <p align="center">
-  Desenvolvido com dedicação por LeoX Mods.
+
+Desenvolvido com ❤️ por <b>LeoX Mods</b>
+
 </p>
